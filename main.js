@@ -6,7 +6,7 @@ function changeContent(page){
             <h3>INFO</h3>
 				<p> Name : Dhruv Sharma <br>
                     Mobile no. : +91 9828222225 <br>
-				</p>
+				</p>z
                 <h3>Residence</h3>
                 <p> City : Jaipur<br>
                     State : Rajasthan<br>
@@ -20,7 +20,13 @@ function changeContent(page){
         break;
         case 'resume':
             contentDiv.innerHTML=`
-            <h2>Resume will be updated shortly on the page.</h2>
+             <h3>My Resume</h3>
+                <iframe 
+                    src="resume.pdf" 
+                    width="100%" 
+                    height="600px"
+                    style="border: none;">
+                </iframe>
             `;
         break;
         case 'contact':
