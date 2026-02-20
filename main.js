@@ -6,7 +6,7 @@ function changeContent(page){
             <h3>INFO</h3>
 				<p> Name : Dhruv Sharma <br>
                     Mobile no. : +91 9828222225 <br>
-				</p>
+				</p>git
                 <h3>Residence</h3>
                 <p> City : Jaipur<br>
                     State : Rajasthan<br>
@@ -23,7 +23,7 @@ function changeContent(page){
              <h3>My Resume</h3>
                 <iframe 
                     src="resume.pdf" 
-                    width="100%" 
+                    width="200%" 
                     height="600px"
                     style="border: none;">
                 </iframe>
