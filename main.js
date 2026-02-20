@@ -6,7 +6,7 @@ function changeContent(page){
             <h3>INFO</h3>
 				<p> Name : Dhruv Sharma <br>
                     Mobile no. : +91 9828222225 <br>
-				</p>git
+				</p>
                 <h3>Residence</h3>
                 <p> City : Jaipur<br>
                     State : Rajasthan<br>
