@@ -16,7 +16,7 @@ function changeContent(page){
                 <p> 10th : 84% from CBSE Board<br>
                     12th : 80% from CBSE Board with PCM<br>
                     Graduation : B.Tech from SRM Chennai(8.5 CGPA)
-                </p>`;
+                </p>`
         break;
         case 'resume':
             contentDiv.innerHTML=`
@@ -24,7 +24,7 @@ function changeContent(page){
                 <iframe 
                     src="resume.pdf" 
                     width="200%" 
-                    height="600px"
+                    height="80vh"
                     style="border: none;">
                 </iframe>
             `;
