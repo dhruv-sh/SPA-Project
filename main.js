@@ -23,8 +23,8 @@ function changeContent(page){
              <h3>My Resume</h3>
                 <iframe 
                     src="resume.pdf" 
-                    width="200%" 
-                    height="80vh"
+                    width="100%" 
+                    height="600px"
                     style="border: none;">
                 </iframe>
             `;
